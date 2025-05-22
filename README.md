@@ -1,24 +1,42 @@
-### Hi there! 👋
+<h1 align="center">Hi there 👋, I'm Vijeta Vaisnavi</h1>
 
-I'm Vijeta — a **Machine Learning Enthusiast** on a mission to sprinkle some AI magic into the real world! ✨
+<p align="center">
+  <em>A passionate learner and explorer in the world of <strong>Machine Learning</strong> and <strong>Big Data</strong> ✨</em>
+</p>
 
-### 🎓 About Me:
-- 🎓 Pursuing a Bachelor's in Computer Science and Engineering at **Sri Eshwar College of Engineering**.
-- 🧠 Currently diving deep into the world of **Machine Learning** — training my brain just like those neural networks! 🧠
-- 🥋 A proud **Karate-ka** — breaking boards by day, solving code bugs by night! 🥋
+---
 
-### 🔍 What I'm Up To:
-- 🔭 Exploring the vast universe of **AI/ML** to turn crazy ideas into working solutions!
-- 📚 Learning, unlearning, and relearning — because that's how machine learning works, right? 😜
-- 💡 Brainstorming ways to use ML to predict my next karate move (AI-powered roundhouse kick, anyone?).
+### 👩‍💻 About Me
 
-### 🔗 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijeta-vaisnavi-t-12a08225a/)
+🎓 I'm currently pursuing my **Bachelor's in Computer Science and Engineering** at  
+**Sri Eshwar College of Engineering** (Batch: 2022–2026).
 
-### 💻 Fun Facts:
-- 🚀 I believe AI can solve most problems, except when the problem is low coffee supply! ☕️
-- 🧘‍♂️ Karate teaches me patience, but Python tests it daily!
-- 😅 My favorite debugging tool? Rubber ducks. They’re great listeners! 🦆
+💡 I’m deeply fascinated by how data can be transformed into intelligent, impactful solutions using **AI/ML** and **Big Data Technologies**. I love solving real-world problems by blending logic, creativity, and curiosity.
 
-  
-![Vijeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijeta0410&show_icons=true&theme=synthwave)
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 Exploring the endless possibilities of **Artificial Intelligence** and **Machine Learning**.
+- 🛠️ Hands-on with projects involving **Data Engineering**, **NLP**, and **Smart Applications**.
+- 📚 Learning technologies like **Hadoop, PySpark, SQL, Hive, AWS, DataBricks**, and building practical tools.
+- ✍️ Working on meaningful, user-centric projects — from **Resume Analyzers** to **Digital Diaries**.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijeta0410&show_icons=true&theme=synthwave" alt="Vijeta's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 [LinkedIn – Vijeta Vaisnavi](https://www.linkedin.com/in/vijeta-vaisnavi-t-12a08225a/)
+- 📬 Feel free to connect for collaborations, project discussions, or tech chats!
+
+---
+
+> _“Turning curiosity into code and ideas into impact.”_ 🚀  
